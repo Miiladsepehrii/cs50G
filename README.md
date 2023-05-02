@@ -33,9 +33,7 @@ fp | [Tanks][fp_link] | World of Tanks reproduction with tank movement on a top 
 
 ---
   
-<p align="center"><a href="https://certificates.cs50.io/104a74c3-5cb6-40a0-8717-b2c650b59f04">
-  <img src="data/CS50G.png" width="90%"/>
-</a></p>
+
 
 <!-- Links -->
 
@@ -55,10 +53,10 @@ fp | [Tanks][fp_link] | World of Tanks reproduction with tank movement on a top 
 [portal_link]:      proj-10-portal
 [fp_link]:          proj-fp-tanks
 
-[lua_img]:          https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/lua.png
-[love_img]:         https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/love.png
-[csharp_img]:       https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/csharp.png
-[unity_img]:        https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/unity.png
+[lua_img]:          https://github.com/miladparsa/cs50G/blob/main/lua%20(1).png
+[love_img]:         https://github.com/miladparsa/cs50G/blob/main/output-onlinepngtools.png
+[csharp_img]:       https://github.com/miladparsa/cs50G/blob/main/csharp.png
+[unity_img]:        https://github.com/miladparsa/cs50G/blob/main/unity.png
 
 Video games are a form of interactive entertainment that are played on a computer, game console, or mobile device. They have become increasingly popular in recent years, and have evolved to include a wide range of different genres and styles.
 
