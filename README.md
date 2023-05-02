@@ -54,7 +54,7 @@ fp | [Tanks][fp_link] | World of Tanks reproduction with tank movement on a top 
 [fp_link]:          proj-fp-tanks
 
 [lua_img]:          https://github.com/miladparsa/cs50G/blob/main/lua%20(1).png
-[love_img]:         [https://github.com/miladparsa/cs50G/blob/main/output-onlinepngtools.png](https://github.com/miladparsa/cs50G/blob/main/love.png)
+[love_img]:         https://github.com/miladparsa/cs50G/blob/love.png
 [csharp_img]:       https://github.com/miladparsa/cs50G/blob/main/csharp.png
 [unity_img]:        https://github.com/miladparsa/cs50G/blob/main/unity.png
 
